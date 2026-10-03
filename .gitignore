@@ -1,0 +1,21 @@
+# données brutes
+data/ValeursFoncieres-*.txt
+
+# base SQLite
+data/dvf_database
+
+# export trop lourd
+CSVs/dvf_distribution.csv
+
+# environnement virtuel
+.venv/
+
+# python
+__pycache__/
+*.pyc
+
+# Tableau
+*.twbx
+*.twb
+*.hyper
+scripts/dvf_database.db
