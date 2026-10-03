@@ -107,19 +107,14 @@ Three views built in Tableau from the exported CSVs.
  
 A choropleth of mainland France, colored by each department's median price per m². The expensive hotspots (Paris region, the Riviera, Atlantic coast) stand out immediately.
  
-![Price map](screenshots/dashboard_carte.png)
  
 ### Quarterly trends
  
 Median prices and transaction counts tracked quarter by quarter, with filters for property type (apartment, house, commercial).
  
-![Trends](screenshots/dashboard_temporel.png)
- 
 ### Price distribution and department ranking
  
 Histograms of sale prices plus a ranking of the priciest departments.
- 
-![Distribution](screenshots/dashboard_distribution.png)
  
 Two static matplotlib charts (`graphique_villes.png` and `top10_departements_chers.png`) sit alongside these dashboards.
  
